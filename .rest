@@ -1,0 +1,6 @@
+POST http://localhost:4200/foodOrder
+
+content-type: application/json
+{
+    "name": "sample"
+}
